@@ -1,1 +1,2 @@
 # project_pyarmor
+pyarmorによる難読化の試験のためのレポジトリ
