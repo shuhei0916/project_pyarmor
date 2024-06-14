@@ -1,2 +1,3 @@
 # project_pyarmor
-pyarmorによる難読化の試験のためのレポジトリ
+pyarmorによる難読化の試験のためのレポジトリ。
+pyinstallerやpyarmorの勉強のためいろいろ実験してみます。

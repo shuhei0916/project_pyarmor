@@ -1,0 +1,3 @@
+import brother
+
+brother.hi()

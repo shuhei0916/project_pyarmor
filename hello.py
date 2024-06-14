@@ -5,7 +5,6 @@ from dist import common
 from dist import tom
 from common import *
 
-# tom.hi()
 
 def hehe():
     try:

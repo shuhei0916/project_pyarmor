@@ -1,0 +1,3 @@
+# dist/, build/を無視
+dist/
+build/
