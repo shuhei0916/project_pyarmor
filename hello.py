@@ -1,8 +1,8 @@
 # import pyarmor_runtime
 import tkinter as tk
 from tkinter import messagebox
-from dist import common
-from dist import tom
+# from dist import common
+# from dist import tom
 from common import *
 
 
